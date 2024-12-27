@@ -4,3 +4,5 @@ git add <file>                  # Stage changes
 git status                      # Verify staged files
 git commit -m "Commit message"  # Save changes
 git restore <file>              # Undo changes if needed
+
+new edit
